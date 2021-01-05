@@ -25,3 +25,10 @@
 - Database presentation slides
 - References slides
 - Sql script with joins, aggregation etc.
+
+#### JavaScript 
+
+- Optimization and de-optimization in JIT
+- Variables and Scope
+- Hoisting
+- Asynchronous Js
