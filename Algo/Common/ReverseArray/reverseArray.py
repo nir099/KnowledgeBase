@@ -11,3 +11,11 @@ while(i < j):
     j -= 1
 
 print(arr)
+
+# from for loop
+arr2 = [1,4,6,8,4,3,2,9]
+n = len(arr2) - 1
+for i in range(len(arr2)//2):
+    arr2[i] , arr2[n - i] = arr2[n - i ] , arr2[i]
+    
+print(arr2)
